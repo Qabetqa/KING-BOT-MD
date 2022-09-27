@@ -12,16 +12,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.owner = ['923499656133']
+global.premium = ['923499656133']
+global.ownernomer = '923499656133'
+global.ownername = '➪〽️𝐞𝐡𝐚𝐫 🇿 𝐚𝐝𝐚 🅺︎𝐢𝐧𝐠 ✌︎'
+global.botname = '[➪〽️𝐞𝐡𝐚𝐫 🇿 𝐚𝐝𝐚 🅺︎𝐢𝐧𝐠 ✌︎]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.ig = ''
 global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
 global.myweb = 'https://youtube.com/channel/UCgwWV1Cya4_gUFKYOQYQtHw'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.packname = '[🤘➪〽️𝐞𝐡𝐚𝐫 🇿 𝐚𝐝𝐚 🅺︎𝐢𝐧𝐠 ✌︎]'
 global.author = 'ШHłТΞ HΛϾКΞЯS'
 global.sessionName = 'session'
 global.region = 'Sri Lanka'
